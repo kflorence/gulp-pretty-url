@@ -1,0 +1,34 @@
+{
+  "name": "gulp-pretty-url",
+  "version": "0.1.0",
+  "description": "Simple gulp-rename wrapper to generate pretty URLs for files",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-rename": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kflorence/gulp-pretty-url.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "gulp-rename",
+    "rename",
+    "pretty url",
+    "url",
+    "permalink",
+    "seo",
+    "static site"
+  ],
+  "author": "Kyle Florence <kyle.florence@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kflorence/gulp-pretty-url/issues"
+  },
+  "homepage": "https://github.com/kflorence/gulp-pretty-url"
+}
