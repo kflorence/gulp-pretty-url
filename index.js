@@ -20,4 +20,6 @@ function prettyUrl(file) {
   return file;
 }
 
-module.exports = rename(prettyUrl);
+module.exports = function() {
+  return rename(prettyUrl);
+};
