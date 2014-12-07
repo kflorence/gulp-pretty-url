@@ -2,6 +2,10 @@
 
 A simple [https://github.com/hparra/gulp-rename](gulp-rename) wrapper to generate pretty URLs.
 
+## Install
+
+`npm install gulp-pretty-url --save-dev`
+
 ## Example
 
 ```javascript
