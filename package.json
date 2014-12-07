@@ -1,6 +1,6 @@
 {
   "name": "gulp-pretty-url",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple gulp-rename wrapper to generate pretty URLs for files",
   "main": "index.js",
   "dependencies": {
