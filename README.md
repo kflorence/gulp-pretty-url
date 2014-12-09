@@ -14,7 +14,7 @@ var prettyUrl = require("gulp-pretty-url");
 
 gulp.task("pretty-urls", function() {
   return gulp.src("src/**/*.hbs")
-    .pipe(prettyUrl)
+    .pipe(prettyUrl())
     .pipe(gulp.dest("dest"))
 });
 ```
